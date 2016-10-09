@@ -1,0 +1,14 @@
+html 
+- h1 : membuat tulisan lebih besar (h1>hn lebih kecil)
+- <html lang="en-US"> : identifikasi dasar bahasa yg digunakan
+- <!-- komentar --> : ctrl+/
+- cara mengembalikan comannd : ctrl+alt+/
+- <a href="link_url" target="_blank">google</a> : ngelink
+- <img src="link gmabr"> : input gambar
+- <iframe> link video </iframe> : input video by inet
+- <video witdh ="60%" height="auto" controls autoplay>
+		 <source src="YDXJ1175.mp4" type="video/mp4"></video> : by folder
+- www.ssyoutube.com :buat download video
+hosting di github.com
+
+
